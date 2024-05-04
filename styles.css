@@ -1,0 +1,274 @@
+@media screen and (min-width: 1440px) and (min-height: 1024px) {
+    body {
+        font-size: 20px;
+    }
+}
+header {/* header */
+
+    position:fixed;
+    width: 1500px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(101, 2, 2, 0.05);
+    z-index: 9999
+
+    }
+    
+    .andrew {/* Andrew */
+
+    position: absolute;
+    width: 178px;
+    height: 50px;
+    left: 54px;
+    top: 15px;
+    background: rgba(0, 128, 0, 0);
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.25);
+    }
+.company {
+        /* Компании */
+    
+    position: absolute;
+    width: 226px;
+    height: 63px;
+    left: 331px;
+    top: 15px;
+    border: 0dvb;
+    border-radius: 10px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.25);
+    
+    }
+.film {
+       /* Фильмы */
+    
+    position: absolute;
+    width: 179px;
+    height: 59px;
+    left: 661px;
+    top: 15px;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 5px 10px 5px rgba(0, 0, 0, 0.25);
+     
+    }
+    
+.history {
+        /* История */
+    
+    position: absolute;
+    width: 223px;
+    height: 42px;
+    left: 928px;
+    top: 15px;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.25);
+    
+    }
+.logo {
+        /* Layer_1 */
+    
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1300px;
+    top:-33px;
+    
+
+    
+    }
+.name_tag {
+/* ANDREW COPMANY */
+
+position: absolute;
+left: 45.9%;
+right: 4.65%;
+top: 17.87%;
+bottom: 74.51%;
+
+font-family: 'Della Respira';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+    }
+
+.textname {
+    /* ANDREW COPMANY */
+
+position: absolute;
+width: 413px;
+height: 65px;
+left: 102px;
+top: 203px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+}
+
+.main1 {
+position: absolute;
+width: 622px;
+height: 68px;
+left: 720px;
+top: 258px;
+
+background: rgba(95, 52, 52, 0.4);
+border-radius: 44px;
+align-content: center;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #FFFFFF;
+}
+
+.main2 {
+
+position: absolute;
+width: 622px;
+height: 68px;
+left: 720px;
+top: 381px;
+
+background: rgba(95, 52, 52, 0.4);
+border-radius: 44px;
+align-content: center;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 14px;
+color: #FFFFFF;
+text-transform:none;
+}
+
+.main3 {
+    /* Rectangle 29 */
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 622px;
+height: 68px;
+left: 720px;
+top: 504px;
+
+background: rgba(95, 52, 52, 0.4);
+border-radius: 44px;
+align-content: center;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #FFFFFF;
+
+
+}
+
+.info {
+
+/* Rectangle 27 */
+
+position: absolute;
+left: 4.76%;
+right: 56.91%;
+top: 70.44%;
+bottom: 8.95%;
+
+background: rgba(92, 16, 16, 0.5);
+border-radius: 40px;
+align-content: center;
+text-align: center;
+font-family:'Times New Roman', Times, serif;
+font-size: 40px;
+color: #FFFFFF;
+text-transform:none;
+
+}
+.mainlogo {
+/* Group 2 */
+
+position: absolute;
+width: 992px;
+height: 560px;
+left: -165px;
+top: 39px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+}
+
+.tg {
+    /* Ellipse 8 */
+/* Ellipse 8 */
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 106px;
+height: 106px;
+left: 1350px;
+top: 649px;
+
+background: rgba(238, 143, 143, 0.6);
+border-radius: 100px;
+align-content:center;
+align-items:center;
+}
+
+.tg img {
+    max-width:70% ;
+    max-height: 70%;
+    align-self: center;
+}
+
+/* Rectangle */
+body {
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    background-size: cover;
+}
